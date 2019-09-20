@@ -13,6 +13,13 @@
     "description" : "It's a product about routing",
     "catalogId" : "DEFAULT",
     "events" : [ ]
+  }, {
+    "id" : 3,
+    "name" : "Another Product",
+    "displayName" : "another product",
+    "description" : "Anotha one",
+    "catalogId" : "DEFAULT",
+    "events" : [ ]
   } ],
   "categories" : [ {
     "id" : 1,
